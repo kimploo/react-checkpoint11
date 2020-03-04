@@ -7,3 +7,4 @@ export default function List(props) {
     </>
   );
 }
+// props, destructuring props, naming props...
